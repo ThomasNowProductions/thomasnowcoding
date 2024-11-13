@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @thomasnowcoding
 - 👀 I’m interested in videography and coding
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on nothing, let me just do my thing :)
-- 📫 How to reach me via Kwebler, link in description
-- 😄 Pronouns: Him
+- 💞️ I’m looking to collaborate with the best coders in the world
+- 📫 How to reach me: email
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: My code-editor is Visual Studio Code
 <!---
 thomasnowcoding/thomasnowcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
